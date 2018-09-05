@@ -7,6 +7,7 @@ public class Demo {
 		System.out.println("this is new class");
 		System.out.println("this is the first change");
 		System.out.println("this is the second change");
+		System.out.println("this is the third change");
 	}
 
 }
