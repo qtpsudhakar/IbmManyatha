@@ -1,0 +1,16 @@
+<suite name="reg">
+	<groups>
+		<run>
+			<include name="smoke" />
+		</run>
+	</groups>
+
+	<test name="c1">
+
+		<packages>
+			<package name="com.tng.basics" />
+		</packages>
+
+	</test>
+
+</suite>

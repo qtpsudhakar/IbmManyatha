@@ -1,0 +1,13 @@
+<suite name="reg" >
+
+	<test name="c1">
+	<parameters>
+		<parameter name="browser" value="chrome" />
+	</parameters>
+		<classes>
+			<class name="com.tng.basics.OhrmAddEmp_Reporting" />
+		</classes>
+
+	</test>
+
+</suite>

@@ -1,0 +1,10 @@
+<suite name="RetryFailedTests" verbose="1" >
+ <listeners>
+        <listener class-name="com.tng.listen.Listener"/>
+  </listeners>
+  <test name="RetryMulitple">
+    <classes>
+      <class name="com.tng.listen.OhrmAddEmployee_Report_Listener"/>
+    </classes>
+  </test>
+</suite>

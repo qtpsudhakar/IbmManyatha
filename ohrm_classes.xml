@@ -1,0 +1,27 @@
+<suite name="reg">
+	<test name="c1">
+
+		<classes>
+			<class name="com.tng.basics.OhrmAddEmpPOF">
+
+				<methods>
+					<include name="AddEmp" />
+				</methods>
+
+			</class>
+
+			<class name="com.tng.basics.BaseTest" />
+		</classes>
+
+	</test>
+
+	<test name="c2">
+
+		<classes>
+			<class name="com.tng.basics.OhrmAddEmpPOF" />
+			<class name="com.tng.basics.BaseTest" />
+		</classes>
+
+	</test>
+
+</suite>
